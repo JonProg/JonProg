@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=2000&pause=3000&color=C8C5F776&center=true&random=false&width=435&lines=Fala+Players,+tranquilos%3F)](https://git.io/typing-svg)
 
-
+Sejam bem-vindos ao meu GitHub, onde estou sempre em busca de aprendizado e evolução no mundo da programação.
 
 Frameworks e bibliotecas que eu utilizo
 
