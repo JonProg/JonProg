@@ -4,7 +4,9 @@
 
 <div>
 
+Sejam bem-vindos ao meu GitHub, onde estou sempre em busca de aprendizado e evolução no mundo da programação.
 
+#
 
 Frameworks e bibliotecas que eu utilizo
 
@@ -19,6 +21,8 @@ Banco de dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
+#
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonProg&theme=nord_dark)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=2000&pause=2000&color=07F700&vCenter=true&random=false&width=435&lines=%09%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;%09%CA%95%E3%83%8E%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%83%8E+%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB)](https://git.io/typing-svg)
 
@@ -27,3 +31,4 @@ Banco de dados
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=4000&color=C8C5F7&center=true&random=false&width=435&lines=JonProg)](https://git.io/typing-svg)
 
 <div>
+
