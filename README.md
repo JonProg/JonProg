@@ -1,4 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=2000&pause=3000&color=C8C5F776&center=true&random=false&width=435&lines=Fala+Players,+tranquilos%3F)](https://git.io/typing-svg)
+
+<div>
 
 
 
@@ -18,5 +22,8 @@ Banco de dados
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonProg&theme=nord_dark)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=2000&pause=2000&color=07F700&vCenter=true&random=false&width=435&lines=%09%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;%09%CA%95%E3%83%8E%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%83%8E+%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB)](https://git.io/typing-svg)
 
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&pause=4000&color=C8C5F7&center=true&random=false&width=435&lines=JonProg)](https://git.io/typing-svg)
+
+<div>
