@@ -33,7 +33,11 @@ Banco de dados
 
 <div>
 
+<div align="left">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=2000&pause=2000&color=07F700&vCenter=true&random=false&width=435&lines=%09%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;%09%CA%95%E3%83%8E%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%83%8E+%EF%B8%B5+%E2%94%BB%E2%94%81%E2%94%BB)](https://git.io/typing-svg)
+
+<div>
 
 <div align="center">
 
