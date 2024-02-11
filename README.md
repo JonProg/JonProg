@@ -4,8 +4,11 @@
 
 <div>
 
+<div align="left">
+  
 Seja bem-vindo ao meu GitHub, onde estou sempre em busca de aprendizado e evolução no mundo da programação.
 
+<div>
 #
 
 <div align="left">
