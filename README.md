@@ -33,8 +33,3 @@ Bem-vindo ao meu GitHub! Estou sempre em busca de aprendizado e evolução no mu
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jon_prog)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-henrique-dev/)
 [![Gnail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonashenri.aquino@gmail.com)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonProg&theme=nord_dark)
-
-
-
