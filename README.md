@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=30&pause=1000&color=7164F7&width=435&lines=Fala+player%2C+tranquilo%3F)](https://git.io/typing-svg)
 
-<div>
+</div>
 
 <div align="left">
   
 #### Bem-vindo ao meu GitHub! Estou sempre em busca de aprendizado e evolução no mundo da programação, com foco especial em desenvolvimento back-end. Aqui você encontrará projetos que refletem meu compromisso com boas práticas de codificação, otimização de desempenho e a construção de soluções robustas. Além disso, estou sempre explorando novas tecnologias e frameworks para ampliar meu conhecimento e aprimorar minhas habilidades. Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de crescimento na área.
 
-<div>
+</div>
   
 #
 
